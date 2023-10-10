@@ -1,0 +1,6 @@
+myenv
+build
+dist
+main.spec
+.vscode
+.DS_STORE
